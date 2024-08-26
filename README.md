@@ -48,17 +48,16 @@
 <a href="https://github.com/xplshn/xplshn/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
+<div align="center">
 <!-- Guestbook -->
-<center>
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/xplshn"><img width="24" src="https://avatars.githubusercontent.com/u/114888778?s=24&u=7982d1048e94881172aa062ce3c93336dc09f46a&v=4" alt="xplshn" /> xplshn</a> |8/26/2024, 2:38:13 AM|Just a test|
 | <a href="https://github.com/xplshn"><img width="24" src="https://avatars.githubusercontent.com/u/114888778?s=24&u=7982d1048e94881172aa062ce3c93336dc09f46a&v=4" alt="xplshn" /> xplshn</a> |8/26/2024, 2:37:32 AM|Hi everyone!|
-</center>
 <!-- /Guestbook -->
+</div>
 
 <!-- Footer -->
-
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

@@ -1,9 +1,9 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/xplshn/xplshn/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img height="200" src="https://github.com/xplshn/xplshn/blob/master/images/welcome.png?raw=true" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Anto, A.K.A Xplshn and I really like doing random stuff on computers" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Anto, A.K.A Xplshn and I really like doing random stuff on computers" src="images/github-header-image.png" />
   <br />
   <br />
 

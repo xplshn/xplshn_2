@@ -1,9 +1,9 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/xplshn/xplshn/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Anto, A.K.A Xplshn and I really like doing random stuff on computers" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://fatbuffalo.neocities.org/def">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://music.youtube.com/playlist?list=RDCLAK5uy_nPN5nGhNWMuq-NC1COQ7_tMl2r5SxSgKE">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -45,15 +45,17 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/xplshn/xplshn/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
+<center>
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/xplshn"><img width="24" src="https://avatars.githubusercontent.com/u/114888778?s=24&u=7982d1048e94881172aa062ce3c93336dc09f46a&v=4" alt="xplshn" /> xplshn</a> |8/26/2024, 2:38:13 AM|Just a test|
 | <a href="https://github.com/xplshn"><img width="24" src="https://avatars.githubusercontent.com/u/114888778?s=24&u=7982d1048e94881172aa062ce3c93336dc09f46a&v=4" alt="xplshn" /> xplshn</a> |8/26/2024, 2:37:32 AM|Hi everyone!|
 <!-- /Guestbook -->
+</center>
 
 <!-- Footer -->
 
@@ -65,11 +67,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<img src="https://raw.githubusercontent.com/xplshn/xplshn/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/xplshn/xplshn/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/xplshn/xplshn/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
